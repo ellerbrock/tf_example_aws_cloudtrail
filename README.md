@@ -1,4 +1,4 @@
-# tf_straycat_aws_cloudtrail
+# tf_example_aws_cloudtrail
 Setup a CloudTrail trail.
 
 ## Variables
